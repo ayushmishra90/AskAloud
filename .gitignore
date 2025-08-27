@@ -2,10 +2,15 @@
 .env
 .env.local
 .env.*
+env/
 
 # Ignore Python cache files
 __pycache__/
 *.pyc
+# vscode
+.vscode/
+settings.json
+launch.json
 
 # Ignore config files containing tokens
 config.json
