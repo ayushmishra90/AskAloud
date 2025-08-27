@@ -41,8 +41,8 @@ This project demonstrates how to build a **retrieval-augmented generation (RAG) 
 ---
 
 ## 📂 Project Structure 
-askaloud/
-├── .vscode/ # VSCode workspace settings
+- askaloud/
+-- ├── .vscode/ # VSCode workspace settings
 ├── .gitignore # Git ignore rules
 ├── all_installed.txt # List of installed packages (for reference)
 ├── basic_final.py # Main app script (Streamlit chatbot)
@@ -55,7 +55,7 @@ askaloud/
 ├── record.py # Audio recording utilities
 ├── sp_to_txt.py # Speech-to-text utilities
 └── speak.py # Text-to-speech utilities
-# Folder made after usage
+### Folder made after usage
 ├── data/ # Uploaded documents and downloaded files
 ├── env/ # Python virtual environment
 ├── recordings/ # Saved audio recordings
