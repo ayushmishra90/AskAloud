@@ -69,8 +69,8 @@ askaloud/
 
 ### 1️⃣ Clone the repo  
 ```bash
-git clone https://github.com/yourusername/askaloud-demo.git
-cd askaloud-demo
+git clone https://github.com/ayushmishra90/AskAloud.git
+cd AskAloud
 ```
 ### 2️⃣ Create virtual environment & install dependencies
 ```bash
@@ -160,14 +160,14 @@ streamlit run basic_final.py
 ---
 
 ## Demo Images
+<img width="1917" height="965" alt="Screenshot 2025-08-27 231621" src="https://github.com/user-attachments/assets/b7960eb2-e49c-41dd-b6e6-a527b507a40a" />
+<img width="1880" height="875" alt="Screenshot 2025-08-27 231713" src="https://github.com/user-attachments/assets/7c9bb2d2-fe30-4fbf-8151-5c08d4d9fab2" />
 <img width="1918" height="969" alt="Screenshot 2025-08-27 231731" src="https://github.com/user-attachments/assets/fc0ce5ad-aaed-4fdb-8900-66201ef7ce16" />
 <img width="1885" height="884" alt="Screenshot 2025-08-27 231745" src="https://github.com/user-attachments/assets/2b2e71e6-caa1-4c0f-8ead-cfe4ce2dd4e0" />
 <img width="1881" height="880" alt="Screenshot 2025-08-27 231820" src="https://github.com/user-attachments/assets/78ae0057-34ec-4f8d-9f43-eeeb0d79dd43" />
 <img width="1880" height="881" alt="Screenshot 2025-08-27 231831" src="https://github.com/user-attachments/assets/503c4cb9-7f57-4f43-a348-e2af7001c162" />
 <img width="1870" height="892" alt="Screenshot 2025-08-27 231852" src="https://github.com/user-attachments/assets/4fadbde4-9bca-4ecb-b03a-710e77dc70b9" />
 <img width="1882" height="875" alt="Screenshot 2025-08-27 231915" src="https://github.com/user-attachments/assets/4aebfa0d-0c8c-4f57-b1c5-af656c6fc233" />
-<img width="1917" height="965" alt="Screenshot 2025-08-27 231621" src="https://github.com/user-attachments/assets/b7960eb2-e49c-41dd-b6e6-a527b507a40a" />
-<img width="1880" height="875" alt="Screenshot 2025-08-27 231713" src="https://github.com/user-attachments/assets/7c9bb2d2-fe30-4fbf-8151-5c08d4d9fab2" />
 
 
 ## 📜 License
